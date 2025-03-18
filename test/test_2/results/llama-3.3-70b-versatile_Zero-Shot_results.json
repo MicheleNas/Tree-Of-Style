@@ -1,0 +1,30 @@
+[
+    {
+        "sentence": "S\u00ec ma, sto arrivando, un secondo solo.",
+        "text": "Immagina che tua madre ti stia chiamando per dirti che la cena \u00e8 pronta e devi venire a tavola.",
+        "status": null,
+        "Alterego_Sentence": "\"Va bene, mamm\u00e0, arrivo subito! Non iniziare senza di me, per favore!\"",
+        "similarity": 0.44492024183273315
+    },
+    {
+        "sentence": "Va bene pap\u00e0, finisco di studiare questa cosa e poi lascendo.",
+        "text": "Immagina che tuo padre ti stia chiedendo di portare a spasso il cane perch\u00e9 lui \u00e8 impegnato.",
+        "status": "Stai studiano.",
+        "Alterego_Sentence": "Pap\u00e0, mi dispiace ma sto proprio studiando per un esame importante e non posso interrompere adesso. Non potresti chiedere a qualcun altro o fare un'eccezione questa volta?",
+        "similarity": 0.7595595121383667
+    },
+    {
+        "sentence": "Per me va bene nonna, mi fa piacere. Dimmi che cosa vuoi fare, che magari cerchiamo la ricetta su internet e cos\u00ec la facciamo insieme.",
+        "text": "Immagina che tua nonna ti stia chiedendo di aiutarla a preparare una torta speciale per la famiglia.",
+        "status": null,
+        "Alterego_Sentence": "\"Certo, nonna! Sono cos\u00ec contenta di aiutarti a preparare una torta speciale per la famiglia! Che tipo di torta vuoi fare? Una classica torta di compleanno, una torta di cioccolato o forse qualcosa di diverso? Dimmi tutto, cos\u00ec posso darti una mano a prepararla al meglio!\"",
+        "similarity": 0.5981810092926025
+    },
+    {
+        "sentence": "Va bene, la puoi prendere, per\u00f2 fai attenzione a non cadere e a non rovinarmi la bicicletta.",
+        "text": "Immagina che tuo fratello ti stia chiedendo di prestargli la bicicletta per fare un giro.",
+        "status": null,
+        "Alterego_Sentence": "Certo, fratellino, prendi pure la bicicletta, ma non dimenticare di chiudere il lucchetto quando la lasci incustodita e non spingerti troppo, che poi mi tocca venire a cercarti!",
+        "similarity": 0.6831656694412231
+    }
+]

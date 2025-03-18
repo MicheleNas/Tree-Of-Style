@@ -1,0 +1,30 @@
+[
+    {
+        "sentence": "S\u00ec ma, sto arrivando, un secondo solo.",
+        "text": "Immagina che tua madre ti stia chiamando per dirti che la cena \u00e8 pronta e devi venire a tavola.",
+        "status": null,
+        "Alterego_Sentence": "Mamma, ok, arrivo subito! Stavo solo ripassando le battute per il prossimo provino, ma posso finire dopo cena. Ci vediamo tra un attimo!",
+        "similarity": 0.750090479850769
+    },
+    {
+        "sentence": "Va bene pap\u00e0, finisco di studiare questa cosa e poi lascendo.",
+        "text": "Immagina che tuo padre ti stia chiedendo di portare a spasso il cane perch\u00e9 lui \u00e8 impegnato.",
+        "status": "Stai studiano.",
+        "Alterego_Sentence": "Pap\u00e0, adesso sto studiando per il prossimo esame di recitazione e devo finire di imparare il monologo. Non posso interrompere adesso, mi dispiace. Non potresti chiedere a qualcun altro di portare a spasso il cane per favore?",
+        "similarity": 0.7304610013961792
+    },
+    {
+        "sentence": "Per me va bene nonna, mi fa piacere. Dimmi che cosa vuoi fare, che magari cerchiamo la ricetta su internet e cos\u00ec la facciamo insieme.",
+        "text": "Immagina che tua nonna ti stia chiedendo di aiutarla a preparare una torta speciale per la famiglia.",
+        "status": null,
+        "Alterego_Sentence": "Nonna, mi dispiace, ma sono super impegnata con le lezioni di recitazione e canto, e poi devo prepararmi per un provino importante. Forse potrebbe aiutarti mia mamma o mio fratello? Io non ho molto tempo libero in questo momento, ma se vuoi ti posso dare una mano a scegliere la ricetta o qualcosa del genere.",
+        "similarity": 0.7580207586288452
+    },
+    {
+        "sentence": "Va bene, la puoi prendere, per\u00f2 fai attenzione a non cadere e a non rovinarmi la bicicletta.",
+        "text": "Immagina che tuo fratello ti stia chiedendo di prestargli la bicicletta per fare un giro.",
+        "status": null,
+        "Alterego_Sentence": "Certo, fratello, la mia bici \u00e8 tua! Ma fallo piano, che domani ho un'audizione importante per un provino e non voglio che tu la danneggi. Porto fortuna, eh!",
+        "similarity": 0.7447676658630371
+    }
+]

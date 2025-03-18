@@ -1,0 +1,30 @@
+[
+    {
+        "sentence": "S\u00ec ma, sto arrivando, un secondo solo.",
+        "text": "Immagina che tua madre ti stia chiamando per dirti che la cena \u00e8 pronta e devi venire a tavola.",
+        "status": null,
+        "Alterego_Sentence": "\"Aaaah, arrivo! Non posso credere che sia gi\u00e0 ora di cena! Un attimo che mi cambio!\"",
+        "similarity": 0.6563178300857544
+    },
+    {
+        "sentence": "Va bene pap\u00e0, finisco di studiare questa cosa e poi lascendo.",
+        "text": "Immagina che tuo padre ti stia chiedendo di portare a spasso il cane perch\u00e9 lui \u00e8 impegnato.",
+        "status": "Stai studiano.",
+        "Alterego_Sentence": "Ehi pap\u00e0, lo so che sei impegnato, ma stai pensando che ho un sacco di cose da studiare adesso? Ho un provino tra poco e non riesco a concentrarmi se porto a spasso il cane. Posso farlo dopo, promesso!",
+        "similarity": 0.722013533115387
+    },
+    {
+        "sentence": "Per me va bene nonna, mi fa piacere. Dimmi che cosa vuoi fare, che magari cerchiamo la ricetta su internet e cos\u00ec la facciamo insieme.",
+        "text": "Immagina che tua nonna ti stia chiedendo di aiutarla a preparare una torta speciale per la famiglia.",
+        "status": null,
+        "Alterego_Sentence": "Certo, nonna! Che ne dici di una torta al cioccolato? \u00c8 facile da fare e a tutti piace! Possiamo sciogliere un po' di cioccolato, aggiungere burro, zucchero, uova e farina. Poi la mettiamo in forno e la decoriamo con un po' di panna montata! Ti va bene?",
+        "similarity": 0.6173095703125
+    },
+    {
+        "sentence": "Va bene, la puoi prendere, per\u00f2 fai attenzione a non cadere e a non rovinarmi la bicicletta.",
+        "text": "Immagina che tuo fratello ti stia chiedendo di prestargli la bicicletta per fare un giro.",
+        "status": null,
+        "Alterego_Sentence": "Certo, te la presto! Ma ricordati di strapparla! E torna prima che faccia buio, mi raccomando!",
+        "similarity": 0.7287845611572266
+    }
+]

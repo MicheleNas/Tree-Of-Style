@@ -1,0 +1,1 @@
+from .pos_tagging import calculate_pos, calculate_avg_pos, print_pos

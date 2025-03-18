@@ -1,0 +1,30 @@
+[
+    {
+        "sentence": "S\u00ec ma, sto arrivando, un secondo solo.",
+        "text": "Immagina che tua madre ti stia chiamando per dirti che la cena \u00e8 pronta e devi venire a tavola.",
+        "status": null,
+        "Alterego_Sentence": "S\u00ec, arrivo subito.",
+        "similarity": 0.6588036417961121
+    },
+    {
+        "sentence": "Va bene pap\u00e0, finisco di studiare questa cosa e poi lascendo.",
+        "text": "Immagina che tuo padre ti stia chiedendo di portare a spasso il cane perch\u00e9 lui \u00e8 impegnato.",
+        "status": "Stai studiano.",
+        "Alterego_Sentence": "Va bene, ora lo porto a spasso.",
+        "similarity": 0.6958649754524231
+    },
+    {
+        "sentence": "Per me va bene nonna, mi fa piacere. Dimmi che cosa vuoi fare, che magari cerchiamo la ricetta su internet e cos\u00ec la facciamo insieme.",
+        "text": "Immagina che tua nonna ti stia chiedendo di aiutarla a preparare una torta speciale per la famiglia.",
+        "status": null,
+        "Alterego_Sentence": "Nonna, mi devi dare delle indicazioni per\u00f2, perch\u00e9 non so come si fa.",
+        "similarity": 0.9615764617919922
+    },
+    {
+        "sentence": "Va bene, la puoi prendere, per\u00f2 fai attenzione a non cadere e a non rovinarmi la bicicletta.",
+        "text": "Immagina che tuo fratello ti stia chiedendo di prestargli la bicicletta per fare un giro.",
+        "status": null,
+        "Alterego_Sentence": "Va bene, la puoi prendere.",
+        "similarity": 0.8105954527854919
+    }
+]

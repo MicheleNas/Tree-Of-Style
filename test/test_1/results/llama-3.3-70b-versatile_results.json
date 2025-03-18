@@ -1,0 +1,30 @@
+[
+    {
+        "sentence": "S\u00ec ma, sto arrivando, un secondo solo.",
+        "text": "Immagina che tua madre ti stia chiamando per dirti che la cena \u00e8 pronta e devi venire a tavola.",
+        "status": null,
+        "Alterego_Sentence": "Mamma, ok, arrivo subito! Sto finendo di preparare il mio copione per il prossimo provino, ma vado a mangiare adesso.",
+        "similarity": 0.8896101713180542
+    },
+    {
+        "sentence": "Va bene pap\u00e0, finisco di studiare questa cosa e poi lascendo.",
+        "text": "Immagina che tuo padre ti stia chiedendo di portare a spasso il cane perch\u00e9 lui \u00e8 impegnato.",
+        "status": "Stai studiano.",
+        "Alterego_Sentence": "\"Pap\u00e0, mi dispiace, ma sto studiano, devo finire questo compito. Non posso portare fuori il cane adesso. Non potresti chiedere a qualcun altro?\"",
+        "similarity": 0.7915534377098083
+    },
+    {
+        "sentence": "Per me va bene nonna, mi fa piacere. Dimmi che cosa vuoi fare, che magari cerchiamo la ricetta su internet e cos\u00ec la facciamo insieme.",
+        "text": "Immagina che tua nonna ti stia chiedendo di aiutarla a preparare una torta speciale per la famiglia.",
+        "status": null,
+        "Alterego_Sentence": "Certo, nonna! Ce la facciamo! Come si fa?",
+        "similarity": 0.7481124401092529
+    },
+    {
+        "sentence": "Va bene, la puoi prendere, per\u00f2 fai attenzione a non cadere e a non rovinarmi la bicicletta.",
+        "text": "Immagina che tuo fratello ti stia chiedendo di prestargli la bicicletta per fare un giro.",
+        "status": null,
+        "Alterego_Sentence": "Ehi, fratello, prenditi pure la bici, ma poi portala indietro, okay?",
+        "similarity": 0.8225202560424805
+    }
+]

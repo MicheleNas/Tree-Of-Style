@@ -1,0 +1,2 @@
+model,technique,Sim-js_conteggi,Sim-js_lemmi,Sim-js_1-grammi_POS,Sim-js_2-grammi_POS,Sim-js_3-grammi_POS,Sim-js_4-grammi_POS,Sim-js_5-grammi_POS,Sim-js_lunghezze_frasi,Sim-js_sentiment,Avg-Sim-cos_Content
+ft:gpt-4o-mini-2024-07-18:alterego:AfrDa3fM,Unknown,0.9553569129080278,0.3728067618342047,0.8738181326550511,0.7302853367096902,0.5210084736720201,0.34712486564776057,0.2414407959681888,0.8258214660392529,0.9394408775485249,0.6047497987747192

@@ -1,0 +1,30 @@
+[
+    {
+        "sentence": "S\u00ec ma, sto arrivando, un secondo solo.",
+        "text": "Immagina che tua madre ti stia chiamando per dirti che la cena \u00e8 pronta e devi venire a tavola.",
+        "status": null,
+        "Alterego_Sentence": "\"Mamma, arrivo subito! Non vedo l'ora di gustarmela, sei la migliore!\"",
+        "similarity": 0.5461924076080322
+    },
+    {
+        "sentence": "Va bene pap\u00e0, finisco di studiare questa cosa e poi lascendo.",
+        "text": "Immagina che tuo padre ti stia chiedendo di portare a spasso il cane perch\u00e9 lui \u00e8 impegnato.",
+        "status": "Stai studiano.",
+        "Alterego_Sentence": "\"Pap\u00e0, sto studiando e non posso interrompere adesso. Potresti chiedere a qualcun altro, per favore?\"",
+        "similarity": 0.6010960340499878
+    },
+    {
+        "sentence": "Per me va bene nonna, mi fa piacere. Dimmi che cosa vuoi fare, che magari cerchiamo la ricetta su internet e cos\u00ec la facciamo insieme.",
+        "text": "Immagina che tua nonna ti stia chiedendo di aiutarla a preparare una torta speciale per la famiglia.",
+        "status": null,
+        "Alterego_Sentence": "Ciao nonna! Certo, sarei felice di aiutarti a preparare una torta speciale! Che ne dici di una torta alla cioccolato con una bella crema al mascarpone? Possiamo decorarala con fragole fresche e un po' di cacao in polvere per renderla ancora pi\u00f9 golosa! Iniziamo a mettere insieme gli ingredienti: farina, zucchero, uova, burro e ovviamente tanto cioccolato. Sar\u00e0 divertente cucinare insieme! \ud83c\udf1f\ud83c\udf70",
+        "similarity": 0.3732326030731201
+    },
+    {
+        "sentence": "Va bene, la puoi prendere, per\u00f2 fai attenzione a non cadere e a non rovinarmi la bicicletta.",
+        "text": "Immagina che tuo fratello ti stia chiedendo di prestargli la bicicletta per fare un giro.",
+        "status": null,
+        "Alterego_Sentence": "Ehi, ascolta, non so se posso prestarti la bicicletta. Devi capire che \u00e8 un po' la mia libert\u00e0 su due ruote, e ci tengo davvero. Magari possiamo andare insieme un altro giorno, che ne dici? Cos\u00ec ti mostro qualche percorso figo!",
+        "similarity": 0.6575672626495361
+    }
+]

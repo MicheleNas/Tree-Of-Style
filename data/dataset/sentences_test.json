@@ -1,0 +1,17 @@
+[
+    {
+        "sentence": "Pa, ho capito, ora inizio a studiare, il tempo ce l'ho, finisco di guardarmi queste serie e studio.",
+        "text": "Immagina che tuo padre ti stia dicendo di spegnere il computer e iniziare a studiare per un esame.",
+        "status": "Stai guardando una serie tv."
+    },
+    {
+        "sentence": "Va bene, dai ti aiuto, però velocemente che anche io devo studiare.",
+        "text": "Immagina che tuo fratello ti stia chiedendo di aiutarlo con i compiti di scienze.",
+        "status": "Devi studiare."
+    },
+    {
+        "sentence": "Va bene zio, dimmi quando che mi organizzo e così mi faccio trovare pronta.",
+        "text": "Immagina che tuo zio ti stia chiedendo di accompagnarlo in un negozio per scegliere un nuovo attrezzo.",
+        "status": null
+    }
+]
